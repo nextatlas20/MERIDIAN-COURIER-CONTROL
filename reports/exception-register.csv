@@ -1,0 +1,4 @@
+package_id,route,recipient,expected_by,last_scan_at,last_status,last_location,overdue_days,priority
+PK-404,Valley Run,Dawn Center,2091-06-12,2091-06-13T11:00:00Z,departed,Valley Depot,3,1
+PK-402,Harbor Run,Bramble School,2091-06-13,2091-06-14T16:30:00Z,held,Harbor Depot,2,1
+PK-401,North Loop,Aster Clinic,2091-06-14,,unscanned,,1,2
