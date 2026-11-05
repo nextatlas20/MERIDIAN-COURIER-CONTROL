@@ -1,0 +1,12 @@
+package_id,scanned_at,status,location
+PK-401,2091-06-16T09:00:00Z,departed,North Depot
+PK-401,2091-06-17T08:00:00Z,delivered,Aster Clinic
+PK-402,2091-06-14T16:30:00Z,departed,Harbor Depot
+PK-402,2091-06-14T16:30:00Z,held,Harbor Depot
+PK-403,2091-06-14T14:00:00Z,departed,North Depot
+PK-403,2091-06-15T10:00:00Z,delivered,Cedar Lab
+PK-404,2091-06-13T11:00:00Z,departed,Valley Depot
+PK-405,2091-06-14T12:00:00Z,departed,Harbor Depot
+PK-405,2091-06-15T11:00:00Z,delivered,Elm Studio
+PK-406,2091-06-15T08:00:00Z,departed,Valley Depot
+PK-406,2091-06-16T09:00:00Z,delivered,Fern House
